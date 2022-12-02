@@ -22,11 +22,6 @@ The TPP has at least one transport certificate created for each of its software 
 The TPP has at least one redirect URI for each of its software statements.
 The TPP has a copy of the OB root and issuing certificate attached.
 
-#### Step 2: TPP should contact our Open Banking support team
-We do not offer Dynamic Client Registration.
-
-Please contact our Open Banking support team to be onboarded.
-
 #### Step 2: Register TPP with Bank using Dynamic Client Registration
 See http://openid.net/specs/openid-connect-registration-1_0-21.html
 Claims required in dynamic client registration for Banks are as follows
