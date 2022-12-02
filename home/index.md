@@ -2,9 +2,9 @@
 
 ## Open Banking
 
-The Monese Open Banking API is based on the Open Banking Standard which allows regulated Third Party Providers (TPPs) to access Account Information Services (AIS), Payment Initiation Services (PIS) and funds confirmation requests for member accounts.
+The StormPay Open Banking API is based on the Open Banking Standard which allows regulated Third Party Providers (TPPs) to access Account Information Services (AIS), Payment Initiation Services (PIS) and funds confirmation requests for member accounts.
 
-Access to these services on behalf of members is controlled by strong customer authentication within Monese apps as part of OpenID Connect authorisation flows.
+Access to these services on behalf of members is controlled by strong customer authentication within StormPay apps as part of OpenID Connect authorisation flows.
 
 We are a registered Account Servicing Payment Service Provider (ASPSP) who provide access to these services based on the Open Banking standard.
 
